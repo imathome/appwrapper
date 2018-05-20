@@ -155,7 +155,7 @@ class AppWrapper:
 			elif opt in ("-d", "--debug"):
 				self.debug = int(arg)
 			
-		self.log("AppWrapper Created by Samuel D. Colak - Copyright (c)2017 Ledgable BV")
+		self.log("AppWrapper Created by Samuel D. Colak - Copyright (c)2017 Im-At-Home BV")
 		
 		# load params in from the config file...
 		
